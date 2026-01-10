@@ -1,0 +1,9 @@
+name="SuperiorSuppressors";
+tooltip="SuperiorSuppressors";
+overview="5x health + 3x noise suppression. Can repair/reinforce improvised suppressor.";
+picture="SuperiorSuppressors/data/picture.paa";
+logoSmall="SuperiorSuppressors/data/logoSmall.paa";
+logo="SuperiorSuppressors/data/logo.paa";
+action="https://steamcommunity.com/sharedfiles/filedetails/?id=3638007480;
+author="moldypenguins";
+version="1.1";

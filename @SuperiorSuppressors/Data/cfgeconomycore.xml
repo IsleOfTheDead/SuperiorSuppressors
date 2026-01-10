@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<economycore>
+  <!-- default rootclasses -->
+  <classes>
+    <!-- ... -->
+  </classes>
+  <defaults>
+    <!-- ... -->
+  </defaults>
+  <!-- COPY BETWEEN HERE -->
+  <!-- additional types -->
+  <ce folder="db/types">
+    <!-- Isle of The Dead -->
+    <file name="SuperiorSuppressors.xml" type="types" />
+    <!-- more additional type files... -->
+  </ce>
+  <!-- COPY BETWEEN HERE -->
+</economycore>
