@@ -8,6 +8,6 @@
 		\brief Define always present on dedicated servers
 		\note Isle of The Dead
 	*/
-	#define CombinableItems
+	#define SuperiorSuppressors
 
 /** @}*/
