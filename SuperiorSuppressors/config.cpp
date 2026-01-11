@@ -18,15 +18,15 @@ class CfgMods
     hidePicture=0;
     extra=0;
     name="SuperiorSuppressors";
-    picture="SuperiorSuppressors/data/picture.paa";
-    logoSmall="SuperiorSuppressors/data/logoSmall.paa";
-    logo="SuperiorSuppressors/data/logo.paa";
-    logoOver="SuperiorSuppressors/data/logo.paa";
+    picture="SuperiorSuppressors\data\picture.paa";
+    logoSmall="SuperiorSuppressors\data\logoSmall.paa";
+    logo="SuperiorSuppressors\data\logo.paa";
+    logoOver="SuperiorSuppressors\data\logo.paa";
     action="https://steamcommunity.com/sharedfiles/filedetails/?id=3638007480";
     credits="moldypenguins";
     author="moldypenguins";
     authorID="76561198312711389";
-    version="1.1";
+    version="1.2";
     type="mod";
     dependencies[]={ "World" };
     class defs
@@ -34,12 +34,12 @@ class CfgMods
       class engineScriptModule
       {
         value="";
-        files[]={ "SuperiorSuppressors/scripts/1_core" };
+        files[]={ "SuperiorSuppressors\scripts\1_core" };
       };
       class worldScriptModule
       {
         value="";
-        files[]={ "SuperiorSuppressors/scripts/4_world" };
+        files[]={ "SuperiorSuppressors\scripts\4_world" };
       };
     }
   };

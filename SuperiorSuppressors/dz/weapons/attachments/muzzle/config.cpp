@@ -8,7 +8,7 @@ class CfgPatches
     requiredAddons[] = { "DZ_Data", "DZ_Weapons_Muzzles" };
   };
 };
-class cfgVehicles
+class CfgVehicles
 {
   class Inventory_Base;
   class ItemSuppressor: Inventory_Base
@@ -90,8 +90,8 @@ class cfgVehicles
   class ReinforcedSuppressor: ImprovisedSuppressor
   {
     scope = 2;
-    displayName = "$STR_cfgVehicles_ReinforcedSuppressor0";
-    descriptionShort = "$STR_cfgVehicles_ReinforcedSuppressor1";
+    displayName = "$STR_CfgVehicles_ReinforcedSuppressor0";
+    descriptionShort = "$STR_CfgVehicles_ReinforcedSuppressor1";
     //repairableWithKits[]={0};
     //repairCosts[]={0};
     repairableWithKits[] = {8};
@@ -104,7 +104,7 @@ class cfgVehicles
     };
     hiddenSelectionsTextures[] =
     {
-      "SuperiorSuppressors/dz/weapons/attachments/muzzle/data/reinforced_suppressor_co.paa"
+      "SuperiorSuppressors\dz\weapons\attachments\muzzle\data\reinforced_suppressor_co.paa"
     };
     class DamageSystem
     {
