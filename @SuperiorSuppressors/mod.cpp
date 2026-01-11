@@ -4,6 +4,7 @@ overview="5x health + 3x noise suppression. Can repair/reinforce improvised supp
 picture="SuperiorSuppressors/data/picture.paa";
 logoSmall="SuperiorSuppressors/data/logoSmall.paa";
 logo="SuperiorSuppressors/data/logo.paa";
-action="https://steamcommunity.com/sharedfiles/filedetails/?id=3638007480;
+logoOver="SuperiorSuppressors/data/logo.paa";
+action="https://steamcommunity.com/sharedfiles/filedetails/?id=3638007480";
 author="moldypenguins";
 version="1.1";

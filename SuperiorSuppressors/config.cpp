@@ -21,6 +21,7 @@ class CfgMods
     picture="SuperiorSuppressors/data/picture.paa";
     logoSmall="SuperiorSuppressors/data/logoSmall.paa";
     logo="SuperiorSuppressors/data/logo.paa";
+    logoOver="SuperiorSuppressors/data/logo.paa";
     action="https://steamcommunity.com/sharedfiles/filedetails/?id=3638007480";
     credits="moldypenguins";
     author="moldypenguins";
