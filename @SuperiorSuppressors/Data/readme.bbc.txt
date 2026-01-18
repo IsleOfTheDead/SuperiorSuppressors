@@ -1,9 +1,35 @@
 [h1]SuperiorSuppressors[/h1]
 
 [u]Contains:[/u]
-- 5x health
-- 3x noise suppression
-- Can repair/reinforce improvised suppressor
+- 2x health and 3x noise suppression
+- AWC Thundertrap .308 suppressor (CZ550 Savanna, DMR, LAR, Longhorn, M70 Tundra)
+- Can repair (duct tape) and reinforce (epoxy putty) improvised suppressor
+
+[b]Improvised Suppressor:[/b]
+- DMR: 4 shots to worn, 7 shots to damaged, 9 shots to badly damaged, 13 shots to destroyed
+- M4A1: 8 shots to worn, 12 shots to damaged, 17 shots to badly damaged, 24 shots to destroyed
+- KA-74: 9 shots to worn, 15 shots to damaged, 20 shots to badly damaged, 29 shots to destroyed
+- Kolt 1911: 10 shots to worn, 16 shots to damaged, 23 shots to badly damaged, 32 shots to destroyed
+
+[b]Reinforced Suppressor:[/b]
+- DMR: 15 shots to worn, 25 shots to damaged, 34 shots to badly damaged, 49 shots to destroyed
+- M4A1: 29 shots to worn, 48 shots to damaged, 68 shots to badly damaged, 97 shots to destroyed
+- KA-74: 34 shots to worn, 56 shots to damaged, 79 shots to badly damaged, 112 shots to destroyed
+- Kolt 1911: 39 shots to worn, 64 shots to damaged, 90 shots to badly damaged, 128 shots to destroyed
+
+[b]AWC Thundertrap:[/b]
+- DMR: 87 shots to worn ...
+
+[b]Standardized Suppressor:[/b]
+- M4A1: 173 shots to worn ...
+
+[b]Normalized Suppressor:[/b]
+- KA-74: 202 shots to worn...
+
+[b]Pistol Suppressor:[/b]
+- Kolt 1911: 96 shots to worn...
+
+[b]NOTE:[/b] [i]AWC Thundertrap will work on any firearm that uses inventorySlot 'suppressorImpro' and chambers 'Ammo_308Win*'[/i]
 
 [h2]INSTALLATION:[/h2]
 [i]Install this mod like any other mod.[/i]

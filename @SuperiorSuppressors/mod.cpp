@@ -1,10 +1,10 @@
 name="SuperiorSuppressors";
 tooltip="SuperiorSuppressors";
-overview="5x health + 3x noise suppression. Can repair/reinforce improvised suppressor.";
+overview="2x health and 3x noise suppression. AWC Thundertrap .308 suppressor. Can repair and reinforce improvised suppressor.";
 picture="SuperiorSuppressors\data\picture.paa";
 logoSmall="SuperiorSuppressors\data\logoSmall.paa";
 logo="SuperiorSuppressors\data\logo.paa";
 logoOver="SuperiorSuppressors\data\logo.paa";
 action="https://steamcommunity.com/sharedfiles/filedetails/?id=3638007480";
 author="moldypenguins";
-version="1.2";
+version="1.3";
