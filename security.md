@@ -4,7 +4,7 @@
 
 | Version | Supported          |
 |---------| ------------------ |
-| 1.0.0   | :white_check_mark: |
+| 1.4.0   | :white_check_mark: |
 
 ## Major Bugs / Severe Security Vulnerabilities / Other Issues
 
