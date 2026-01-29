@@ -16,7 +16,7 @@ class AWC_Suppressor extends SuppressorBase
 		TStringArray ammo_names = new TStringArray;
     // Create config path and get ammo types
 		string cfg_path = "CfgWeapons " + weapon.GetType() + " chamberableFrom";
-		GetGame().ConfigGetTextArray(cfg_path, ammo_names);
+		g_Game.ConfigGetTextArray(cfg_path, ammo_names);
 		// for every ammo in ammo string compare passed ammo
 		foreach (string ammo_name : ammo_names)
 		{

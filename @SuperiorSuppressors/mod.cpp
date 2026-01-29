@@ -7,4 +7,4 @@ logo="SuperiorSuppressors\data\logo.paa";
 logoOver="SuperiorSuppressors\data\logo.paa";
 action="https://steamcommunity.com/sharedfiles/filedetails/?id=3638007480";
 author="moldypenguins";
-version="1.3";
+version="1.4";
